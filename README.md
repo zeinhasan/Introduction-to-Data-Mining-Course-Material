@@ -7,8 +7,11 @@
 - End Date            : -
 
 ## List of Content:
-- Week 1 - 
+- Week 1 - Introduction to Python
 - Week 2 - 
 - Week 3 - 
 - Week 4 - 
 - Week 5 - 
+
+## List of Assignments:
+- Task 1 - Deadline :  Tuesday, 28 February 2023, 00:00
