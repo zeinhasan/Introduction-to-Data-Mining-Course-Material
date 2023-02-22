@@ -2,7 +2,7 @@
 
 ## About This Repository:
 - Lecturer            : Dr. Adhitya Ronnie Effendie, S.Si., M.Si., M.Sc. and Mohamad Fahruli Wahyujati, S.Si., M.Si
-- Laboratory Asistant : Ahmad Habib Hasan Zein, Iqbal Hanif Anggita Adi, and Muhammad Zaki Nurkholis
+- Laboratory Assistant : Ahmad Habib Hasan Zein, Iqbal Hanif Anggita Adi, and Muhammad Zaki Nurkholis
 - Start Date          : 22 February 2023
 - End Date            : -
 
