@@ -8,7 +8,7 @@
 
 ## List of Content:
 - Week 1 - Introduction to Python
-- Week 2 - 
+- Week 2 - Statistics Descriptive and Data Preprocessing (Cleaning)
 - Week 3 - 
 - Week 4 - 
 - Week 5 - 
