@@ -12,7 +12,7 @@
 - Week 3 - Group Presentation 1-4
 - Week 4 - Preprocessing (Cleaning) Part 2
 - Week 5 - Preprocessing (Transformation & Dimensionality Reduction)
-- Week 6
+- Week 6 - Association Rule
 
 ## List of Assignments:
 - Task 1 - Deadline :  Tuesday, 28 February 2023, 00:00
