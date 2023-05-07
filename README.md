@@ -15,7 +15,8 @@
 - Week 6 - Association Rule
 - Week 7 - Ujian Tengah Semester 
 - Week 8 - Pembahasan Ujian Tengah Semester 
-
+- Week 9 - Machine Learning Supervised Learning (Decission Tree)
+- Week 10 -  Machine Learning Supervised Learning (Random Forest)
 
 ## List of Assignments:
 - Task 1 - Deadline :  Tuesday, 28 February 2023, 00:00
